@@ -1,4 +1,4 @@
-***Process for Handling Slow Queries***
+#**Process for Handling Slow Queries**
 
 To deal with **slow queries** in a MySQL database, you can follow a structured methodology involving **detection**, **analysis**, **prevention**, and **remediation**. Below is a comprehensive process that you can apply:
 

@@ -198,9 +198,7 @@ When uncontrolled growth is already affecting your database, immediate remediati
 - **Increase Disk Capacity or Use External Storage**: If immediate remediation cannot reclaim sufficient space, consider increasing your storage capacity or migrating large tables to external storage systems like cloud storage or data warehouses.
 
 
-### 5
-
-. **Continuous Monitoring for Uncontrolled Growth**
+### 5. **Continuous Monitoring for Uncontrolled Growth**
 
 To prevent future instances of uncontrolled growth, continuous monitoring is essential.
 

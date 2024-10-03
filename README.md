@@ -11,52 +11,52 @@ MySQL database administrators frequently face a series of challenges and issues 
 
 **2. Backup and Recovery Issues**
 
-    Backup failure
-    Slow recovery
-    Untested backups
+   - Backup failure
+   - Slow recovery
+   - Untested backups
 
 **3. Scalability Issues**
 
-    Uncontrolled growth
-    Hardware limitations
-    Inadequate replication
+   - Uncontrolled growth
+   - Hardware limitations
+   - Inadequate replication
 
 **4. Security Issues**
 
-    Weak or poorly managed credentials
-    Lack of encryption
-    Excessive permissions
-    SQL Injection attacks
+   - Weak or poorly managed credentials
+   - Lack of encryption
+   - Excessive permissions
+   - SQL Injection attacks
 
 **5. Data Integrity Issues**
 
-    Data corruption
-    Transaction issues
-    Lack of normalization
+   - Data corruption
+   - Transaction issues
+   - Lack of normalization
 
 **6. Maintenance and Updates**
 
-    Lack of regular maintenance
-    Complicated updates
-    Log management
+   - Lack of regular maintenance
+   - Complicated updates
+   - Log management
 
 **7. Replication and High Availability**
 
-    Replication performance
-    Inefficient failover
-    Inconsistent replicated data
+   - Replication performance
+   - Inefficient failover
+   - Inconsistent replicated data
 
 **8. Server Configuration and Optimization**
 
-    Inadequate configurations
-    Improper use of storage engines
+   - Inadequate configurations
+   - Improper use of storage engines
 
 **9. Insufficient Monitoring**
 
-    Lack of proactive monitoring
-    Delayed response to issues
+   - Lack of proactive monitoring
+   - Delayed response to issues
 
 **10. Connection and Availability Issues**
 
-    Excessive connections
-    Unexpected downtime
+   - Excessive connections
+   - Unexpected downtime

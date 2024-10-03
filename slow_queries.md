@@ -9,7 +9,6 @@ Detection is the first step in identifying queries that are impacting database p
 #### Tools and Methods:
 - **Slow Query Log**: Enable the **Slow Query Log** in MySQL to log queries that take too long to execute.
 
-  **Configuration:**
   ```ini
   [mysqld]
   slow_query_log = 1
@@ -21,14 +20,11 @@ Detection is the first step in identifying queries that are impacting database p
 
 - **Query Performance Schema**: Use MySQL’s **Performance Schema** to monitor query performance in real-time.
   
-  Enable it:
   ```sql
   SHOW VARIABLES LIKE 'performance_schema';
   ```
 
 - **Proactive Monitoring**: Tools like **Percona Monitoring and Management (PMM)** or **MySQL Enterprise Monitor** can be used to continuously monitor slow queries.
-
-
 
 ### 2. **Analysis of Slow Queries**
 

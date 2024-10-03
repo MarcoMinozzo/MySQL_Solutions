@@ -1,6 +1,7 @@
-Enabling **binary logs** in MySQL on Linux is crucial for replication and data recovery. This process involves modifying the configuration file, specifying the log path and format, and restarting the MySQL service. Regularly monitor disk space and set appropriate log retention periods to prevent excessive log accumulation.
 
 # How to Enable Binary Logs in MySQL on Linux
+
+Enabling **binary logs** in MySQL on Linux is crucial for replication and data recovery. This process involves modifying the configuration file, specifying the log path and format, and restarting the MySQL service. Regularly monitor disk space and set appropriate log retention periods to prevent excessive log accumulation.
 
 To enable **binary logs** in MySQL on a Linux system, follow these steps:
 

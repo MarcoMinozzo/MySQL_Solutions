@@ -1,4 +1,4 @@
-## **Process for Handling Lack of Indexes**
+# **Process for Handling Lack of Indexes**
 
 A lack of proper indexing in a database can significantly degrade query performance, causing slow data retrieval and increasing the workload on the database server. Below is a step-by-step process to detect, analyze, prevent, and resolve the lack of indexes.
 

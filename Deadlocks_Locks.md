@@ -1,4 +1,4 @@
-### **Process for Handling Deadlocks and Locks**
+# **Process for Handling Deadlocks and Locks**
 
 Handling **deadlocks and locks** effectively is critical to maintaining the performance and reliability of your MySQL database. By following this structured approach—detecting locking issues, analyzing the root causes, preventing future occurrences through best practices, and remediating existing problems—you can ensure that your database remains responsive, minimizing the impact of lock-related issues.
 

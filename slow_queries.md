@@ -28,7 +28,7 @@ Detection is the first step in identifying queries that are impacting database p
 
 - **Proactive Monitoring**: Tools like **Percona Monitoring and Management (PMM)** or **MySQL Enterprise Monitor** can be used to continuously monitor slow queries.
 
----
+
 
 ### 2. **Analysis of Slow Queries**
 
@@ -53,8 +53,6 @@ Once slow queries are detected, the next step is to analyze them to understand w
   SELECT * FROM orders WHERE customer_id = 123;
   SHOW PROFILES;
   ```
-
----
 
 ### 3. **Prevention of Slow Queries**
 
@@ -85,8 +83,6 @@ Prevention involves proactive steps to avoid slow queries in the future through 
   query_cache_size = 64M
   query_cache_type = 1
   ```
-
----
 
 ### 4. **Remediation of Slow Queries**
 
@@ -119,8 +115,6 @@ Once the cause is identified, apply specific solutions to fix or optimize the sl
   OPTIMIZE TABLE orders;
   ```
 
----
-
 ### 5. **Continuous Monitoring**
 
 Implementing continuous monitoring is essential to ensure queries remain optimized and new issues are detected quickly.
@@ -130,8 +124,6 @@ Implementing continuous monitoring is essential to ensure queries remain optimiz
 - **MySQL Enterprise Monitor**: Provides real-time visibility into database performance and identifies problematic queries.
 
 - **Automate Analysis**: Use scripts or tools to regularly review the slow query log and generate automatic reports on query performance.
-
----
 
 ### Conclusion:
 Dealing with **slow queries** is an ongoing process that involves early detection, detailed analysis, proactive prevention, and effective remediation. By combining best practices for database design, query optimization, and continuous monitoring, you can maintain optimal MySQL database performance.

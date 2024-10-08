@@ -177,9 +177,7 @@ When a delayed response has already caused performance, replication, or security
 
   **Example** (enforcing strong password policies):
   ```sql
-  ALTER
-
- USER 'user'@'host' IDENTIFIED WITH 'mysql_native_password' BY 'secure_password';
+  ALTER USER 'user'@'host' IDENTIFIED WITH 'mysql_native_password' BY 'secure_password';
   ```
 
 - **Reduce Incident Response Time**: If response times to incidents have consistently been delayed, review and streamline incident response procedures. Introduce automation where possible to minimize manual intervention and ensure timely responses.

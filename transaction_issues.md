@@ -198,9 +198,7 @@ Continuous monitoring and best practices are essential to prevent transaction is
   SET GLOBAL innodb_status_output = 1;
   ```
 
-- **Use Database Monitoring Tools**: Tools like **Percona Monitoring and Management (PMM
-
-)** or **MySQL Enterprise Monitor** can provide real-time insights into transaction performance, deadlocks, and lock contention. Set up alerts for long-running transactions, high lock contention, or frequent deadlocks.
+- **Use Database Monitoring Tools**: Tools like **Percona Monitoring and Management (PMM)** or **MySQL Enterprise Monitor** can provide real-time insights into transaction performance, deadlocks, and lock contention. Set up alerts for long-running transactions, high lock contention, or frequent deadlocks.
 
 - **Implement Transaction Logging**: Enable logging for transactions to detect long-running or failed transactions early. Review the logs periodically to identify potential issues before they escalate.
 

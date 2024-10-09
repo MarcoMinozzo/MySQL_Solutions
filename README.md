@@ -6,57 +6,57 @@ MySQL database administrators frequently face a series of challenges and issues 
 
    - [Slow queries](https://github.com/MarcoMinozzo/MySQL_Solutions/blob/main/slow_queries.md)
    - [Lack of indexes](https://github.com/MarcoMinozzo/MySQL_Solutions/blob/main/lack_of_indexes.md)
-   - [Deadlocks and Locks](URL)
-   - [Fragmented tables](URL)
+   - [Deadlocks and Locks](https://github.com/MarcoMinozzo/MySQL_Solutions/blob/main/deadlocks_locks.md)
+   - [Fragmented tables](https://github.com/MarcoMinozzo/MySQL_Solutions/blob/main/flagmented_tables.md)
 
 **2. Backup and Recovery Issues**
 
-   - [Backup failure](URL)
-   - [Slow recovery](URL)
-   - [Untested backups](URL)
+   - [Backup failure](https://github.com/MarcoMinozzo/MySQL_Solutions/blob/main/backup_failure.md)
+   - [Slow recovery](https://github.com/MarcoMinozzo/MySQL_Solutions/blob/main/slow_recovery.md)
+   - [Untested backups](https://github.com/MarcoMinozzo/MySQL_Solutions/blob/main/untested_backups.md)
 
 **3. Scalability Issues**
 
-   - [Uncontrolled growth](URL)
-   - [Hardware limitations](URL)
-   - [Inadequate replication](URL)
+   - [Uncontrolled growth](https://github.com/MarcoMinozzo/MySQL_Solutions/blob/main/uncontrolled_growth.md)
+   - [Hardware limitations](https://github.com/MarcoMinozzo/MySQL_Solutions/blob/main/hardware_limitations.md)
+   - [Inadequate replication](https://github.com/MarcoMinozzo/MySQL_Solutions/blob/main/inadequate_replication.md)
 
 **4. Security Issues**
 
-   - [Weak or poorly managed credentials](URL)
-   - [Lack of encryption](URL)
-   - [Excessive permissions](URL)
-   - [SQL Injection attacks](URL)
+   - [Weak or poorly managed credentials](https://github.com/MarcoMinozzo/MySQL_Solutions/blob/main/poorly_managed_credentials.md)
+   - [Lack of encryption](https://github.com/MarcoMinozzo/MySQL_Solutions/blob/main/lack_of_encryption.md)
+   - [Excessive permissions](https://github.com/MarcoMinozzo/MySQL_Solutions/blob/main/excessive_permissions.md)
+   - [SQL Injection attacks](https://github.com/MarcoMinozzo/MySQL_Solutions/blob/main/sql_Injection_attack.md)
 
 **5. Data Integrity Issues**
 
-   - [Data corruption](URL)
-   - Transaction issues[Transaction issues](URL)
-   - Lack of normalization[Lack of normalization](URL)
+   - [Data corruption](https://github.com/MarcoMinozzo/MySQL_Solutions/blob/main/data_corruption.md)
+   - [Transaction issues](https://github.com/MarcoMinozzo/MySQL_Solutions/blob/main/transaction_issues.md)
+   - [Lack of normalization](https://github.com/MarcoMinozzo/MySQL_Solutions/blob/main/lack_of_normalization.md)
 
 **6. Maintenance and Updates**
 
-   - Lack of regular maintenance[Lack of regular maintenance](URL)
-   - Complicated updates[Complicated updates](URL)
-   - Log management[Log management](URL)
+   - [Lack of regular maintenance](https://github.com/MarcoMinozzo/MySQL_Solutions/blob/main/lack_regular_maintemance.md)
+   - [Complicated updates](https://github.com/MarcoMinozzo/MySQL_Solutions/blob/main/complicated_updates.md)
+   - [Log management](https://github.com/MarcoMinozzo/MySQL_Solutions/blob/main/log_management.md)
 
 **7. Replication and High Availability**
 
-   - Replication performance[Replication performance](URL)
-   - Inefficient failover[Inefficient failover](URL)
-   - Inconsistent replicated data[Inconsistent replicated data](URL)
+   - [Replication performance](https://github.com/MarcoMinozzo/MySQL_Solutions/blob/main/replication_performance.md)
+   - [Inefficient failover](https://github.com/MarcoMinozzo/MySQL_Solutions/blob/main/inefficient_failover.md)
+   - [Inconsistent replicated data](https://github.com/MarcoMinozzo/MySQL_Solutions/blob/main/inconsistent_replicated_data.md)
 
 **8. Server Configuration and Optimization**
 
-   - Inadequate configurations[Inadequate configurations](URL)
-   - Improper use of storage engines[Improper use of storage engines](URL)
+   - [Inadequate configurations](https://github.com/MarcoMinozzo/MySQL_Solutions/blob/main/inadequate_configurations.md)
+   - [Improper use of storage engines](https://github.com/MarcoMinozzo/MySQL_Solutions/blob/main/improper_use_storage_engines.md)
 
 **9. Insufficient Monitoring**
 
-   - Lack of proactive monitoring[Lack of proactive monitoring](URL)
-   - Delayed response to issues[Delayed response to issues](URL)
+   - [Lack of proactive monitoring](https://github.com/MarcoMinozzo/MySQL_Solutions/blob/main/lack_proactive_monitoring.md)
+   - [Delayed response to issues](https://github.com/MarcoMinozzo/MySQL_Solutions/blob/main/delayed_response_issues.md)
 
 **10. Connection and Availability Issues**
 
-   - Excessive connections[Excessive connections](URL)
-   - Unexpected downtime[Unexpected downtime](URL)
+   - [Excessive connections](https://github.com/MarcoMinozzo/MySQL_Solutions/blob/main/excessive_connections.md)
+   - [Unexpected downtime](https://github.com/MarcoMinozzo/MySQL_Solutions/blob/main/unexpected_downtime.md)

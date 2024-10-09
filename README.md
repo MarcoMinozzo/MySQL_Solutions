@@ -4,10 +4,10 @@ MySQL database administrators frequently face a series of challenges and issues 
 
 **1. Performance Issues**
 
-   - Slow queries
-   - Lack of indexes
-   - Deadlocks and Locks
-   - Fragmented tables
+   - [Slow queries](URL)
+   - [Lack of indexes](URL)
+   - [Deadlocks and Locks](URL)
+   - [Fragmented tables](URL)
 
 **2. Backup and Recovery Issues**
 
